@@ -4,7 +4,14 @@
 
 This project focuses on building a machine learning pipeline to detect fraudulent financial transactions using supervised learning techniques. The workflow covers data preprocessing, exploratory data analysis (EDA), feature engineering, handling class imbalance, model training, hyperparameter tuning, and performance evaluation.
 
+## Dataset
 
+The dataset used for this project is the Credit Card Fraud Detection Dataset from Kaggle.
+
+Download it from:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place `creditcard.csv` in the project folder before running the notebook.
 ##  Technologies Used
 
 - Python
